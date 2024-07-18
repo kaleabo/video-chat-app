@@ -64,7 +64,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/kaleabo/video-chat-app.git
-
 cd video-chat-app
 ```
 
@@ -74,8 +73,6 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
-
-npm run dev
 ```
 
 **Set Up Environment Variables**
