@@ -15,10 +15,7 @@
 // };
 
 // export default VideoChat;
-import React from "react";
 
-const VideoChat: React.FC = () => {
+export default function VideoChat() {
   return <div>VideoChat</div>;
-};
-
-export default VideoChat;
+}
