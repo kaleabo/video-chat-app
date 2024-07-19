@@ -16,7 +16,7 @@
 
 This repository contains the source code for a video chat application developed using React for the frontend, NodeJS for the backend, and Jitsi as the video conferencing service.
 
-### 🚀 [simple-video-chat-app.vercel.app](https://simple-video-chat-app.vercel.app)
+### 🚀 [jitsi-video-chat.vercel.app](https://jitsi-video-chat.vercel.app)
 
 ## Features
 
@@ -64,7 +64,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/kaleabo/video-chat-app.git
-
 cd video-chat-app
 ```
 
@@ -74,8 +73,6 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
-
-npm run dev
 ```
 
 **Set Up Environment Variables**
